@@ -11,3 +11,15 @@
 1. Java banking app
 2. Python web scraper
 
+## My favorite part of code 
+```java
+public class Main {
+  public static void main(String[] args) {
+    
+    var temperature = 10;
+
+    if (temperature <=5) {
+      System.out.println("Heat up room");
+    }
+```
+
