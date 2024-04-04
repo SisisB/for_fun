@@ -10,6 +10,7 @@
 ## My major projects
 1. Java banking app
 2. Python web scraper
+3. Second Life
 
 ## My favorite part of code 
 ```java
